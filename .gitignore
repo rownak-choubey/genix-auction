@@ -1,0 +1,5 @@
+server_genix-aution/node_modules
+server_genix-aution/server/logs
+client_genix-auction/node_modules
+
+*.env
